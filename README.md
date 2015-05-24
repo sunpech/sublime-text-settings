@@ -12,6 +12,8 @@ Most of my settings was influenced by this post: [Simple Visual Enhancements for
 
 You can download this font at: [https://github.com/adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
 
+More fonts can be found at: [http://www.slant.co/topics/67/~what-are-the-best-programming-fonts](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
+
 ### Theme: Spacegray
 
 You can download this theme set at: [https://github.com/kkga/spacegray](https://github.com/kkga/spacegray)
