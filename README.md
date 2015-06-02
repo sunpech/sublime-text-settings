@@ -14,7 +14,9 @@ You can download this font at: [https://github.com/adobe-fonts/source-code-pro](
 
 More fonts can be found at: [http://www.slant.co/topics/67/~what-are-the-best-programming-fonts](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 
-### Theme: Afterglow
+### Theme: Predawn
+
+You can download Predawn theme at: [https://github.com/jamiewilson/predawn](https://github.com/jamiewilson/predawn)
 
 You can download Afterglow theme at: [https://github.com/YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme)
 
