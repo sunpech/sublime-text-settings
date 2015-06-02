@@ -14,6 +14,8 @@ You can download this font at: [https://github.com/adobe-fonts/source-code-pro](
 
 More fonts can be found at: [http://www.slant.co/topics/67/~what-are-the-best-programming-fonts](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 
-### Theme: Spacegray
+### Theme: Afterglow
 
-You can download this theme set at: [https://github.com/kkga/spacegray](https://github.com/kkga/spacegray)
+You can download Afterglow theme at: [https://github.com/YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme)
+
+You can download Spacegray theme set at: [https://github.com/kkga/spacegray](https://github.com/kkga/spacegray)
